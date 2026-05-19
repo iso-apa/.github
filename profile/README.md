@@ -1,4 +1,4 @@
-## iso-apa
+## Iso-APA
 
 Open-source toolkit for isoform-resolved single-cell genomics
 
