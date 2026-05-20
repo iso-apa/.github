@@ -21,7 +21,7 @@ The logo was found by my daughter on a walk — a real isopod.
 The biology fits perfectly:
 
 - **Iso** — isoform, the thing we study
-- **The curl** — cancer's self-defense mechanism: complement evasion, drug resistance, isoform switching to survive
+- **The curl** — cancer's self-defense mechanism: immune evasion, drug resistance, isoform switching to survive
 - **Segmented body** — multiple isoforms of the same gene, each segment a different version
 - **The spiral** — the trajectory from normal differentiation to malignancy
 
