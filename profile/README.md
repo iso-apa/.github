@@ -1,4 +1,4 @@
-## Iso-APA
+## IsoMatrix
 
 Open-source toolkit for isoform-resolved single-cell genomics
 
