@@ -9,7 +9,7 @@ Open-source toolkit for isoform-resolved single-cell genomics
 | Tool | Description | Status |
 |------|-------------|--------|
 | [IsoDecipher](https://github.com/iso-apa/IsoDecipher) | APA quantification from 3' scRNA-seq BAMs — GTF-anchored, scanpy-ready | ✅ Active |
-| [IsoCAPE](https://github.com/iso-apa/IsoCAPE) | Cryptic & premature polyadenylation detection — AR-V7 and beyond | 🔧 In development |
+| [IsoCAPE](https://github.com/iso-apa/IsoCAPE) | Cryptic (CE) and alternative (PA) polyadenylation detection — GTF-anchored, PAS-verified, IsoDecipher-compatible
 | [IsoFormer](https://github.com/iso-apa/IsoFormer) | Foundation model for polyadenylation grammar at single-cell resolution | 🔧 In development |
 
 ---
