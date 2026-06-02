@@ -2,6 +2,7 @@
 
 ---
 > *Learning the polyadenylation grammar of life — and where cancer and autoimmunity breaks the rules.*
+
 **IsoDecipher** is the foundational open-source entry point to the broader **IsoMatrix Suite** — a comprehensive ecosystem for single-cell 3' end biology. While IsoDecipher sets the standard for GTF-anchored quantification, the complete ecosystem extends into unannotated peak discovery, sequence filtering, and machine learning-driven target classification.
 
 | Tool | Description | Status |
