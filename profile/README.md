@@ -1,8 +1,25 @@
 ## IsoMatrix
 
-Open-source toolkit for isoform-resolved single-cell genomics
+## ⚖️ Licensing & Commercial Use
 
-*Learning the polyadenylation grammar of life — and where cancer breaks the rules.*
+The IsoMatrix ecosystem operates on a highly focused **Open-Core** model, balancing accessible foundational tools with advanced, proprietary analytics for enterprise discovery.
+
+**1. Open-Source Quantification (AGPLv3)**
+Our foundational pipeline for GTF-anchored single-cell APA quantification, **IsoDecipher**, is fully open-source under the AGPLv3 License. It is free to use, modify, and distribute for academic research and non-profit projects, serving as the industry standard for known isoform resolution.
+
+**2. Proprietary Discovery Engine (Commercial Only)**
+Our advanced suite for unannotated peak discovery, sequence filtering, and machine learning classification is **strictly proprietary and closed-source**. This includes:
+* **IsoCAPE:** Unannotated polyadenylation site detector (CE, Alu-driven, and intergenic events).
+* **IsoPrime:** Internal priming sequence artifact filter.
+* **IsoScore:** ML-driven biological significance classifier (FWHM, Skewness, KL Divergence).
+* **IsoFormer:** Foundation model for single-cell polyadenylation grammar.
+
+**For For-Profit & Enterprise Users:**
+Pharmaceutical companies, clinical diagnostic labs, and biotech startups seeking to leverage the full suite of IsoMatrix for novel biomarker discovery, immune evasion target validation, or clinical reporting must obtain a **Commercial License**. 
+
+A commercial license grants access to our proprietary discovery engines, legal permission for SaaS integration, and dedicated bioinformatics consulting. 
+
+Please contact `[Your Email]` for SaaS access, biomarker partnerships, and enterprise licensing.
 
 ---
 
