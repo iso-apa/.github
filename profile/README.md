@@ -5,10 +5,10 @@
 | Tool | Description | Status |
 |------|-------------|--------|
 | [IsoDecipher](https://github.com/iso-apa/IsoDecipher) | APA quantification from 3' scRNA-seq BAMs — GTF-anchored, scanpy-ready | ✅ Active |
-| [IsoCAPE](https://github.com/iso-apa/IsoCAPE) | Unannotated polyadenylation site detector — PAS-verified CE, Alu-driven CE, and PA sites beyond GTF boundaries | 🔧 In development |
-| [IsoPrime](https://github.com/iso-apa/IsoPrime) | Internal priming probability scorer for IsoCAPE CE sites — genomic context + PAS model | 🔧 In development |
-| [IsoScore](https://github.com/iso-apa/IsoScore) | ML-driven biological significance classifier (FWHM, Skewness, KL Divergence) | 🔧 In development |
-| [IsoFormer](https://github.com/iso-apa/IsoFormer) | Foundation model for polyadenylation grammar at single-cell resolution | 🔧 In development |
+| [IsoCAPE](https://github.com/iso-apa/IsoCAPE) | Unannotated polyadenylation site detector — PAS-verified CE, Alu-driven CE, and PA sites beyond GTF boundaries | 🔒 Closed-Source |
+| [IsoPrime](https://github.com/iso-apa/IsoPrime) | Internal priming probability scorer for IsoCAPE CE sites — genomic context + PAS model | 🔒 Closed-Source|
+| [IsoScore](https://github.com/iso-apa/IsoScore) | ML-driven biological significance classifier (FWHM, Skewness, KL Divergence) | 🔒 Closed-Source |
+| [IsoFormer](https://github.com/iso-apa/IsoFormer) | Foundation model for polyadenylation grammar at single-cell resolution | 🔒 Closed-Source |
 
 ---
 
