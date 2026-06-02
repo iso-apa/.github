@@ -1,6 +1,9 @@
 ## IsoMatrix
 
 ---
+Learning the polyadenylation grammar of life — and where cancer and autoimmunity breaks the rules.
+
+IsoDecipher is the open-source entry point to IsoMatrix, a dual-licensed ecosystem for single-cell 3' end biology. While IsoDecipher serves as the industry standard for GTF-anchored quantification, our advanced discovery engines for unannotated peak detection and machine learning classification are available under a commercial license for enterprise use.
 
 | Tool | Description | Status |
 |------|-------------|--------|
