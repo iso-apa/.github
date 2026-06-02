@@ -29,7 +29,7 @@ The biology fits perfectly:
 Sometimes the best logos find you.
 
 ---
-## ⚖️ Licensing & Commercial Use
+### ⚖️ Licensing & Commercial Use
 
 The IsoMatrix ecosystem operates on a highly focused **Open-Core** model, balancing accessible foundational tools with advanced, proprietary analytics for enterprise discovery.
 
