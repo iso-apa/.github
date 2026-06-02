@@ -15,7 +15,7 @@
 
 ---
 
-### Why an isopod?
+### 🧬 Why an isopod?
 
 The logo was found by my daughter on a walk — a real isopod.
 
