@@ -19,7 +19,7 @@ Pharmaceutical companies, clinical diagnostic labs, and biotech startups seeking
 
 A commercial license grants access to our proprietary discovery engines, legal permission for SaaS integration, and dedicated bioinformatics consulting. 
 
-Please contact `[Your Email]` for SaaS access, biomarker partnerships, and enterprise licensing.
+Please contact rene271828@gmail.com for SaaS access, biomarker partnerships, and enterprise licensing.
 
 ---
 
